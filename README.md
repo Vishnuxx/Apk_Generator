@@ -1,2 +1,7 @@
 # Apk_Generator
-Build apk (under development)
+Build android apk from java source 
+support for dex and d8
+excluded libraries
+
+
+(under development)
